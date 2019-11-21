@@ -1,22 +1,22 @@
 # basic
-title: lyyourc
-subtitle: You Are The JavaScript In My HTML
+title: dev4mobile 
+subtitle: Coding is my life 
 favicon: favicon.ico
 
 # avatar: images/avatar.png
 # banner_small: images/banner-small.png
 # banner_large: images/banner-large.png
-avatar: http://7xrcp8.com1.z0.glb.clouddn.com/avatar.png
-banner_small: http://7xrcp8.com1.z0.glb.clouddn.com/banner-small.png
-banner_large: http://7xrcp8.com1.z0.glb.clouddn.com/banner-large.png
+avatar: images/avatar.png
+banner_small: http://www.shuoshuokong.com/uploads/allimg/170613/1-1F613160U1.jpg
+banner_large: http://img95.699pic.com/photo/50055/5642.jpg_wh300.jpg
 
 # disqus
-disqus_shortname: drakeleung
+disqus_shortname: dev4mobile
 
 # social
 social:
-  github: https://github.com/DrakeLeung
-  twitter: https://twitter.com/DrakeLeung
+  github: https://github.com/dev4mobile
+  twitter: https://twitter.com/dev4mobiles
   weibo: http://weibo.com/cha12chalyc
 
 # nav #

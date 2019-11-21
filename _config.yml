@@ -8,7 +8,7 @@ favicon: favicon.ico
 # banner_large: images/banner-large.png
 avatar: images/avatar.png
 banner_small: http://www.shuoshuokong.com/uploads/allimg/170613/1-1F613160U1.jpg
-banner_large: http://img95.699pic.com/photo/50055/5642.jpg_wh300.jpg
+banner_large: images/banner-large.png 
 
 # disqus
 disqus_shortname: dev4mobile

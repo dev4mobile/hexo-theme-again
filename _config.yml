@@ -4,10 +4,10 @@ subtitle: Coding is my life
 favicon: favicon.ico
 
 # avatar: images/avatar.png
-# banner_small: images/banner-small.png
+# banner_small: 
 # banner_large: images/banner-large.png
 avatar: images/avatar.png
-banner_small: http://www.shuoshuokong.com/uploads/allimg/170613/1-1F613160U1.jpg
+banner_small: images/banner-small.png
 banner_large: images/banner-large.png 
 
 # disqus

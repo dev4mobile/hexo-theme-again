@@ -33,4 +33,4 @@ node_sass:
   sourceComments: false
 
 
-google_analytics: # Put tracking ID here
+google_analytics: 'UA-139070704-1' 
